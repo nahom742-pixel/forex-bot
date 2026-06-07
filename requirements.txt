@@ -1,5 +1,0 @@
-python-telegram-bot[job-queue]==20.7
-groq==0.28.0
-yfinance==0.2.36
-pandas==2.2.3
-numpy==2.1.0
